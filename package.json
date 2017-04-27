@@ -1,0 +1,40 @@
+{
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-redux": "^5.0.4",
+    "react-router": "^3.0.0",
+    "react-router-dom": "^4.1.1",
+    "redux": "^3.6.0",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "name": "react-emporium",
+  "description": "### Objectives",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.0",
+    "style-loader": "^0.16.1",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreymcgarr4/react-emporium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreymcgarr4/react-emporium/issues"
+  },
+  "homepage": "https://github.com/coreymcgarr4/react-emporium#readme"
+}
